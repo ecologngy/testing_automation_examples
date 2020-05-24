@@ -1,0 +1,17 @@
+Test_1
+- Go to the Google Chrome Start Page.
+- Get the result: whether all items are present and whether they all are Displayed.
+- Get the title of the page.
+
+
+Test_2
+- Go to the Google Chrome Start Page
+- In search input field, write the value "Test"
+- Get result: whether the value "Test" is really applied whether the page loaded?
+- Get the title of the page.
+
+Test_3
+- Go to the Google Chrome Start Page
+- In search input field, write the value "Test"
+- Transit to any site from a search query.
+- Get result: whether the value "Test" is really applied and verify transition to another page. Get the title of the page.
